@@ -1,0 +1,11 @@
+.flex-item {
+    width: 49%;
+  }
+ .flex-container{
+   flex-direction:row;
+   flex-wrap: wrap;
+ }
+ .australia ,.s-america,.n-america,.europe {
+   background-position: center;
+   background-size: cover;
+ }
